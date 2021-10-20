@@ -46,6 +46,8 @@ Vi povas komenci diskuton pri ia ajn temo tie
 
 # Komunajxoj
 
+***Bonvolu ne tajpi per la -x aux la -h sistemo kaj anstatauxe uzu esperantan klavaron***
+
 Ni decidu antauxen la komunaj vortoj.
 
 Se io tro maltauxgaspektas ekparolu!
