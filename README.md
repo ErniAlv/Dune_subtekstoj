@@ -77,7 +77,7 @@ dosieracxo mi tajpas dum eternecon !!
 
 - sandworm estu sablovermo
 
-- Shai-Hulud estu sxaj-Hulud
+- Shai-Hulud estu sxaj-Hulud  <- tio estu en la tablo
 
 - imperium estu imperio
 
