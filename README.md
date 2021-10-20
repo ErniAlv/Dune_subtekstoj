@@ -1,5 +1,7 @@
 # Nu , bonvenon ! 
 
+Legu cxi tion antaux vi komencu.
+
 Jen la plano : 
 La produktota dosiero estu divitita cxe dosieretoj po 10 frazoj .
 Estos 100 dosieretoj entute .  
@@ -40,6 +42,50 @@ kaj ne forgesu marki la dosiereton kiel "farita" post la fino
 Vi povas komenci diskuton pri ia ajn temo tie
 
 ![alt text](https://github.com/Bela-Kamilo/Dune_subtekstoj/blob/main/gvidbildoj/diskutu.png "★")
+
+
+# Komunajxoj
+
+Ni decidu antauxen la komunaj vortoj.
+
+Se io tro maltauxgaspektas ekparolu!
+
+ni cxiuj uzu la samajn vortojn pri
+
+*ege redaktenda*
+
+la nomoj estu io kaj la familionomoj ankaux.... fek al tiu 
+dosieracxo mi tajpas dum eternecon !!
+
+|Angla         | singularo    | Pluralo           |akuzativo         |
+|--------------|--------------|-------------------|------------------|
+|Paul          |Pol           |nu...Poloj?:D      |Polon:D           |
+|Atreides      |Atridis       |pluraj Atridis     |Atridison         |
+|Paul Atreides |Pol Atridis   |Pol Atridisoj?     |Pol Atridison (?) |
+|Arrakis       |Arakis        |Arakisoj...        |Arakison          | 
+|Fremen        |Fremen        |Fremen             |Fremenon          |
+|Harkonnen     |Harkonnen     |Harkonnen          |Harkonnenon       | 
+|Dunkan        |Dankan        |                   |Dankanon          |
+|Gurney        |Gerni         |                   |                  |
+|Sardaukar     |              |                   |                  |
+
+⋅⋅* spice estu spico  <- kial tio ne funkcias?
+
+**emperor estu imperiestro**
+
+**sandworm estu sablovermo**
+
+**Shai-Hulud estu sxaj-Hulud**
+
+**imperium estu imperio**
+
+**solaris estu solaris**
+
+house estu io...
+
+
+
+
 
 Ne hezitu kontakti min pri io ajn. 
 
