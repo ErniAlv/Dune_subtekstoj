@@ -71,19 +71,19 @@ dosieracxo mi tajpas dum eternecon !!
 |Gurney        |Gerni         |                   |                  |
 |Sardaukar     |              |                   |                  |
 
-⋅⋅* spice estu spico  <- kial tio ne funkcias?
+- spice estu spico 
 
-**emperor estu imperiestro**
+- emperor estu imperiestro
 
-**sandworm estu sablovermo**
+- sandworm estu sablovermo
 
-**Shai-Hulud estu sxaj-Hulud**
+- Shai-Hulud estu sxaj-Hulud
 
-**imperium estu imperio**
+- imperium estu imperio
 
-**solaris estu solaris**
+- solaris estu solaris 
 
-house estu io...
+- house estu io...
 
 
 
