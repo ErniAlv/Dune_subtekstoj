@@ -86,6 +86,8 @@ La nomoj estu nur fonetike tradukitaj kaj ili ne havu diferencajn formoj de plur
 
 - solaris estu solaris 
 
+-crysknife estu krisponardo
+
 - house estu io...
 
 
