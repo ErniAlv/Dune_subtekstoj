@@ -56,28 +56,31 @@ ni cxiuj uzu la samajn vortojn pri
 
 *ege redaktenda*
 
-la nomoj estu io kaj la familionomoj ankaux.... fek al tiu 
-dosieracxo mi tajpas dum eternecon !!
+La nomoj estu nur fonetike tradukitaj kaj ili ne havu diferencajn formoj de pluralo aux akuzativo :
 
-|Angla         | singularo    | Pluralo           |akuzativo         |
-|--------------|--------------|-------------------|------------------|
-|Paul          |Pol           |nu...Poloj?:D      |Polon:D           |
-|Atreides      |Atridis       |pluraj Atridis     |Atridison         |
-|Paul Atreides |Pol Atridis   |Pol Atridisoj?     |Pol Atridison (?) |
-|Arrakis       |Arakis        |Arakisoj...        |Arakison          | 
-|Fremen        |Fremen        |Fremen             |Fremenon          |
-|Harkonnen     |Harkonnen     |Harkonnen          |Harkonnenon       | 
-|Dunkan        |Dankan        |                   |Dankanon          |
-|Gurney        |Gerni         |                   |                  |
-|Sardaukar     |              |                   |                  |
+
+|Angla         | Esperanto    |
+|--------------|--------------|
+|Paul          |Pol           |
+|Atreides      |Atridis       |
+|Arrakis       |Arakis        | 
+|Fremen        |Fremen        |
+|Harkonnen     |Harkonen      | 
+|Dunkan        |Dankan        |
+|Gurney        |Gerni         |
+|Sardaukar     |Sardokar      |
+|Lisan al-Gaib |Lisan al-Gajb |
+|Shai-Hulud    |Sxaj-Hulud    |
+|Bene Gesserit |Bene Geserit  |
+|Yueh          |Jueh          |
+
+
 
 - spice estu spico 
 
 - emperor estu imperiestro
 
 - sandworm estu sablovermo
-
-- Shai-Hulud estu sxaj-Hulud  <- tio estu en la tablo
 
 - imperium estu imperio
 
