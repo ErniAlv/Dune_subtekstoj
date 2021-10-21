@@ -59,20 +59,24 @@ ni cxiuj uzu la samajn vortojn pri
 La nomoj estu nur fonetike tradukitaj kaj ili ne havu diferencajn formoj de pluralo aux akuzativo :
 
 
-|Angla         | Esperanto    |
-|--------------|--------------|
-|Paul          |Pol           |
-|Atreides      |Atridis       |
-|Arrakis       |Arakis        | 
-|Fremen        |Fremen        |
-|Harkonnen     |Harkonen      | 
-|Dunkan        |Dankan        |
-|Gurney        |Gerni         |
-|Sardaukar     |Sardokar      |
-|Lisan al-Gaib |Lisan al-Gajb |
-|Shai-Hulud    |Sxaj-Hulud    |
-|Bene Gesserit |Bene Geserit  |
-|Yueh          |Jueh          |
+|Angla           | Esperanto      |
+|----------------|----------------|
+|Paul            |Pol             |
+|Leto            |Leto            |
+|Atreides        |Atridis         |
+|Arrakis         |Arakis          | 
+|Fremen          |Fremen          |
+|Harkonnen       |Harkonen        |  
+|Dunkan Idaho    |Dankan Idaho    |
+|Gurney          |Gerni           |
+|Sardaukar       |Sardokar        |
+|Lisan al-Gaib   |Lisan al-Gajb   |
+|Shai-Hulud      |Sxaj-Hulud      |
+|Bene Gesserit   |Bene Gxeserit   |
+|Yueh            |Jueh            |
+|Liet Kynes      |Liet Kajns      |
+|Kwisatz Haderach|Kuxisatz Harerak|
+
 
 
 
@@ -86,7 +90,11 @@ La nomoj estu nur fonetike tradukitaj kaj ili ne havu diferencajn formoj de plur
 
 - solaris estu solaris 
 
--crysknife estu krisponardo
+- crysknife estu krisponardo
+
+- thumper estu batilo
+
+- stillsuit estu distil...io
 
 - house estu io...
 
