@@ -75,7 +75,7 @@ La nomoj estu nur fonetike tradukitaj kaj ili ne havu diferencajn formoj de plur
 |Bene Gesserit   |Bene Gxeserit   |
 |Yueh            |Jueh            |
 |Liet Kynes      |Liet Kajns      |
-|Kwisatz Haderach|Kuxisatz Harerak|
+|Kwisatz Haderach|Kuxisatz Haderak|
 
 
 
