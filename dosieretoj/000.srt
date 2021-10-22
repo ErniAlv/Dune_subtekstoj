@@ -1,6 +1,6 @@
 ﻿1
 00:00:04,120 --> 00:00:08,690
-sonĝoj estas mesaĝoj de profunde
+Sonĝoj estas mesaĝoj de profunde
 
 2
 00:00:45,169 --> 00:00:50,169
