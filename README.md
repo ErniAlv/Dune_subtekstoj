@@ -94,7 +94,7 @@ La nomoj estu nur fonetike tradukitaj kaj ili ne havu diferencajn formoj de plur
 
 - thumper estu batilo
 
-- stillsuit estu distil...io
+- stillsuit estu distilkostumo
 
 - house estu io...
 
