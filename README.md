@@ -41,7 +41,7 @@ kaj ne forgesu marki la dosiereton kiel "farita" post la fino
 
 Vi povas komenci diskuton pri ia ajn temo tie
 
-![alt text](h/gvidbildoj/diskutu.png "★")
+![alt text](/gvidbildoj/diskutu.png "★")
 
 
 # Komunajxoj
