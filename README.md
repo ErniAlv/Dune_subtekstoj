@@ -52,7 +52,7 @@ Ni decidu antauxen la komunaj vortoj.
 
 Se io tro maltauxgaspektas ekparolu!
 
-ni cxiuj uzu la samajn vortojn por tiuj kiuj aperas tra la tuta filmo
+Ni cxiuj uzu la samajn vortojn por tiuj kiuj aperas tra la tuta filmo
 
 La nomoj estu nur fonetike tradukitaj kaj ili ne havu diferencajn formoj de pluralo aux akuzativo :
 
