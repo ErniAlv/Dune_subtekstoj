@@ -19,7 +19,7 @@ alexandrosk002@gmail.com
 Komence vi povas elsxuti la tuton per tiu verda butono
 
 
-![alt text](https://github.com/Bela-Kamilo/Dune_subtekstoj/blob/main/gvidbildoj/elsxutu.png "★")
+![alt text](/gvidbildoj/elsxutu.png "★")
 
 Klaku al "Download ZIP" kaj permesu ke via retumilo stori gxin.
 
@@ -28,20 +28,20 @@ Tiu dosiero enhavas cxiujn la dosierojn kiuj ekzistas tie cxi sed ili estas elig
 Vi povas fari tion per iu programo kiel Winrar aux 7-zip.
 
 Por komenci skribi iru al "dosieretoj" kaj klaku al la dosiereto kiun vi volas redakti
-![alt text](https://github.com/Bela-Kamilo/Dune_subtekstoj/blob/main/gvidbildoj/klakuallanomo.png "★")
+![alt text](/gvidbildoj/klakuallanomo.png "★")
 Kaj poste klaku al la krajono
-![alt text](https://github.com/Bela-Kamilo/Dune_subtekstoj/blob/main/gvidbildoj/redaktu.png "★")
+![alt text](/gvidbildoj/redaktu.png "★")
 
 **Bonvole lasu malplenan linion post la teksto tiel**
-![alt text](https://github.com/Bela-Kamilo/Dune_subtekstoj/blob/main/gvidbildoj/lasulinion.png "Estas la .srt formato")
+![alt text](/gvidbildoj/lasulinion.png "Estas la .srt formato")
 
 kaj ne forgesu marki la dosiereton kiel "farita" post la fino
-![alt text](https://github.com/Bela-Kamilo/Dune_subtekstoj/blob/main/gvidbildoj/farita.png "★")
+![alt text](/gvidbildoj/farita.png "★")
 
 
 Vi povas komenci diskuton pri ia ajn temo tie
 
-![alt text](https://github.com/Bela-Kamilo/Dune_subtekstoj/blob/main/gvidbildoj/diskutu.png "★")
+![alt text](h/gvidbildoj/diskutu.png "★")
 
 
 # Komunajxoj
@@ -100,6 +100,8 @@ La nomoj estu nur fonetike tradukitaj kaj ili ne havu diferencajn formoj de plur
 
 
 
+Finfine , la projekto ne emas sentigi devon.<br/>
+Oni ricevu , prilaboru kaj rezignu siajn arkivetojn senhonte
 
 
 Ne hezitu kontakti min pri io ajn. 
