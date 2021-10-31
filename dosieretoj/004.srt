@@ -43,4 +43,4 @@ de la gvidistoj de la kosma gildo</i>
 
 49
 00:06:27,920 --> 00:06:30,520
-<i>por trovi sekurajn vojojn tra la stelojn</i>
+<i>por trovi sekurajn vojojn inter la stelojn</i>
