@@ -94,7 +94,7 @@ La nomoj estu nur fonetike tradukitaj kaj ili ne havu diferencajn formoj de plur
 
 - stillsuit estu distilkostumo
 
-- house estu domo... sajne...
+- house estu Domo ....  ni majuskligu la unuan literon
 
 
 
