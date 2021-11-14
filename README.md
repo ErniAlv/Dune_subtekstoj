@@ -5,7 +5,7 @@ Legu cxi tion antaux vi komencu.
 Jen la plano : 
 La produktota dosiero estu divitita cxe dosieretoj po 10 frazoj .
 Estos 100 dosieretoj entute .  
-Cxiu kontribuano prizorgu kelkajn dosieretojn ,Ili poste estos kunigitaj .
+Cxiu kontribuanto prizorgu kelkajn dosieretojn ,Ili poste estos kunigitaj .
 
 Por komenci  ,oni kontaktu min por ke mi notu kiujn dosieretojn si redaktu.
 
