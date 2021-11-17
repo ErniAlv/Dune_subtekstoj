@@ -96,6 +96,7 @@ La nomoj estu nur fonetike tradukitaj kaj ili ne havu diferencajn formoj de plur
 
 - house estu Domo ....  ni majuskligu la unuan literon
 
+- the one estu .... Tiu antauxvidita aux profetita
 
 
 Finfine , la projekto ne emas sentigi devon.<br/>
