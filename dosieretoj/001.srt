@@ -11,7 +11,7 @@ alvenis longe antaŭ mi naskiĝis</i>
 12
 00:01:51,200 --> 00:01:54,680
 <i>Kontrolante la produktadon de spico
-ili obscene riciĝis</i>
+ili obscene riĉiĝis</i>
 
 13
 00:01:54,840 --> 00:01:57,400
@@ -24,7 +24,7 @@ Arakis de la Harkonen</i>
 
 15
 00:02:41,040 --> 00:02:45,080
-<i>Sed iun tagon, laŭ imperia dekreto
+<i>Sed iutage, laŭ imperia dekreto
 ili foriris</i>
 
 16
